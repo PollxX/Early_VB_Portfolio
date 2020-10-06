@@ -1,0 +1,35 @@
+C:\Users\kc68663\AppData\Local\Temporary Projects\database example\bin\Debug\database example.exe.config
+\\kcfs03\studenthome\KC68663\Visual Studio 2013\Projects\database example\database example\bin\Debug\database example.exe.config
+\\kcfs03\studenthome\KC68663\Visual Studio 2013\Projects\database example\database example\bin\Debug\database example.exe
+\\kcfs03\studenthome\KC68663\Visual Studio 2013\Projects\database example\database example\bin\Debug\database example.pdb
+\\kcfs03\studenthome\KC68663\Visual Studio 2013\Projects\database example\database example\bin\Debug\database example.xml
+\\kcfs03\studenthome\KC68663\Visual Studio 2013\Projects\database example\database example\obj\Debug\database_example.Form1.resources
+\\kcfs03\studenthome\KC68663\Visual Studio 2013\Projects\database example\database example\obj\Debug\database_example.Resources.resources
+\\kcfs03\studenthome\KC68663\Visual Studio 2013\Projects\database example\database example\obj\Debug\database example.vbproj.GenerateResource.Cache
+\\kcfs03\studenthome\KC68663\Visual Studio 2013\Projects\database example\database example\obj\Debug\database example.exe
+\\kcfs03\studenthome\KC68663\Visual Studio 2013\Projects\database example\database example\obj\Debug\database example.xml
+\\kcfs03\studenthome\KC68663\Visual Studio 2013\Projects\database example\database example\obj\Debug\database example.pdb
+\\kcfs03\StudentHome\KC68663\Visual Studio 2013\Projects\non_essential\database example\database example\bin\Debug\database example.exe.config
+\\kcfs03\StudentHome\KC68663\Visual Studio 2013\Projects\non_essential\database example\database example\obj\Debug\database example.exe
+\\kcfs03\StudentHome\KC68663\Visual Studio 2013\Projects\non_essential\database example\database example\obj\Debug\database example.xml
+\\kcfs03\StudentHome\KC68663\Visual Studio 2013\Projects\non_essential\database example\database example\obj\Debug\database example.pdb
+\\kcfs03\StudentHome\KC68663\Visual Studio 2013\Projects\non_essential\database example\database example\bin\Debug\database example.exe
+\\kcfs03\StudentHome\KC68663\Visual Studio 2013\Projects\non_essential\database example\database example\bin\Debug\database example.pdb
+\\kcfs03\StudentHome\KC68663\Visual Studio 2013\Projects\non_essential\database example\database example\bin\Debug\database example.xml
+\\kcfs03\StudentHome\KC68663\Visual Studio 2013\Projects\non_essential\database example\database example\obj\Debug\database_example.Form1.resources
+\\kcfs03\StudentHome\KC68663\Visual Studio 2013\Projects\non_essential\database example\database example\obj\Debug\database_example.Resources.resources
+\\kcfs03\StudentHome\KC68663\Visual Studio 2013\Projects\non_essential\database example\database example\obj\Debug\database example.vbproj.GenerateResource.Cache
+\\kcfs03\StudentHome\KC68663\Visual Studio 2013\Projects\non_essential\database example\database example\obj\Debug\database_example.Form2.resources
+\\kcfs03\StudentHome\KC68663\Visual Studio 2013\Projects\non_essential\database example\database example\obj\Debug\database example.vbprojResolveAssemblyReference.cache
+\\kcfs03\StudentHome\KC68663\Visual Studio 2013\Projects\gradingsystem\database example\bin\Debug\database example.exe.config
+\\kcfs03\StudentHome\KC68663\Visual Studio 2013\Projects\gradingsystem\database example\obj\Debug\database example.exe
+\\kcfs03\StudentHome\KC68663\Visual Studio 2013\Projects\gradingsystem\database example\obj\Debug\database example.xml
+\\kcfs03\StudentHome\KC68663\Visual Studio 2013\Projects\gradingsystem\database example\obj\Debug\database example.pdb
+\\kcfs03\StudentHome\KC68663\Visual Studio 2013\Projects\gradingsystem\database example\bin\Debug\database example.exe
+\\kcfs03\StudentHome\KC68663\Visual Studio 2013\Projects\gradingsystem\database example\bin\Debug\database example.pdb
+\\kcfs03\StudentHome\KC68663\Visual Studio 2013\Projects\gradingsystem\database example\bin\Debug\database example.xml
+\\kcfs03\StudentHome\KC68663\Visual Studio 2013\Projects\gradingsystem\database example\obj\Debug\database example.vbprojResolveAssemblyReference.cache
+\\kcfs03\StudentHome\KC68663\Visual Studio 2013\Projects\gradingsystem\database example\obj\Debug\database_example.Form1.resources
+\\kcfs03\StudentHome\KC68663\Visual Studio 2013\Projects\gradingsystem\database example\obj\Debug\database_example.Form2.resources
+\\kcfs03\StudentHome\KC68663\Visual Studio 2013\Projects\gradingsystem\database example\obj\Debug\database_example.Resources.resources
+\\kcfs03\StudentHome\KC68663\Visual Studio 2013\Projects\gradingsystem\database example\obj\Debug\database example.vbproj.GenerateResource.Cache
